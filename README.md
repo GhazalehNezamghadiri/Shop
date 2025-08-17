@@ -6,7 +6,7 @@
 
 -Created - 2025-08-17
 
--Technologies Used : LocalStorage , API , Next.Js , MUI , Zustand , SwiperJs
+-Technologies Used : API , Next.Js , MUI , Zustand , SwiperJs
 
 -How to reach me : with my [instagram](https://www.instagram.com/ghazale.ghadiri/?hl=en) and [linkedin](https://www.linkedin.com/in/ghazaleh-nezamghadiri-06b626302/)
 
